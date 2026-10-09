@@ -1,0 +1,3 @@
+"""
+EcoX Backend Application Package
+"""
